@@ -4,42 +4,14 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, I'm Bruno Fernandes, a Brazilian-born, based in Dublin, Ireland, and living here for over 6 years now, long enough to get used to the weather, but not long enough to stop missing Brazilian food. I’m also an EU citizen, and someone who genuinely enjoys building things and understanding how they work.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I’m a Senior Software Engineer with 10+ years of experience, today focused mostly on backend and cloud systems, the kind of software that needs to be reliable, scalable, and designed to age well. Most of my recent work has been in large, regulated environments, where careful engineering matters.</p>
 
-<h2>Skills</h2>
+<p>That said, my path through software has been a bit broader than that. A long time ago, I also worked with frontend back in the pre-HTML5 days and with Angular 1.2, and I’ve built desktop applications with JavaFX too. These days I live much closer to backend architecture, APIs, distributed systems, and cloud platforms, but I like having that wider perspective of how different kinds of software come together.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<p>What I enjoy most is figuring out what’s happening under the hood. My favorite way to learn a system is usually to build one myself, which probably explains why I’m interested in programming languages, compilers, and technical rabbit holes that start small and escalate quickly.</p>
 
-<h2>Projects</h2>
+<p>Outside of work, I love planning trips with my partner, watching anime, reading, and playing guitar.</p>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>This page is my little corner of the internet for the engineer side, the curious side, and the human side too.</p>
